@@ -8,4 +8,4 @@ The fun and easy project “Guess the Number” is a short Java project that all
    
    3-> The computer then tells if the entered number matches the guesses number or it is higher/lower than the generated number.
    
-      The game continues under the user guess 
+  4-> The game continues under the user guess 
